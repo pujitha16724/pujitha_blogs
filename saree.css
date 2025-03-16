@@ -1,0 +1,795 @@
+a{
+	font-size:25px;
+	color:green;
+}
+a:hover
+		{
+			border-style:solid;
+			border-color:transparent;
+			background-color:red;
+			border-radius:5px;
+		}
+		.child
+		{
+			border-style:solid;
+			width:250px;
+			height:400px;
+			border-radius:20px;
+		}
+		.parent{
+			display:flex;
+			justify-content:space-between;
+			flex-wrap:wrap;
+
+		}
+		#sidebar{
+			 border-style:solid;
+			 width:50px;
+			 height:400px;
+		}
+		#sidebar:hover
+		{
+			border-style:solid;
+			width:250px;
+			height:400px;
+		}
+		#kanji_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(kanji.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+			#kanji_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(kanjivaram1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+		#banarasi_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(banasari1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+			#banarasi_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(banarasi2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+		#chikankari_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(chikan.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+		#chikankari_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(chikankari2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+		#chanderi_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(chanderi1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+		#chanderi_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(chanderi2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+
+		#pochampally_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(pochampalli.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+		#pochampally_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(ponchampalli2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+		#gadwal_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(gadwal2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+		#gadwal_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(gadwal.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+#kasavu_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(kasavu1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+	   #kasavu_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(kasavu2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+		#bandhani_saree
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(bandhani1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+
+			
+		}
+	   #bandhani_saree:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:200px;
+			border-color:transparent;
+			background-image:url(bandhani2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+			
+		}
+		#Anarkali_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(Anarkali1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Anarkali_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(Anarkali2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		
+		#straightcut_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(straightcut1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#straightcut_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(straightcut2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#aline_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(aline1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#aline_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(aline2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		
+		#Asymmetrical_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(asymmetric1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Asymmetrical_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(asymmetric2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Kaftan_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(kaftan1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Kaftan_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(kaftan2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+
+		#overlay_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(overlay1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#overlay_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(overlay2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Denim_Kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(denim1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Denim_Kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(denim2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Dhoti_kurti
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(dhoti1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Dhoti_kurti:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(dhoti2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+
+
+        #Bridal_Lehenga
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(bridal1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Bridal_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(bridal2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		 #sider_Lehenga
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(sider2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#sider_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(sider1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		 #half_Lehenga
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(half1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#half_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(half2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+
+		#peplum_Lehenga
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(peplum1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#peplum_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(peplum2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+   
+   #Fishtail_Lehenga
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(fishtail1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Fishtail_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(fishtail2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+
+        #Layered_Lehenga
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(layered1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Layered_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(layered2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+
+
+        #Ruffle_Lehenga
+
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(ruffle1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Ruffle_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(ruffle2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+
+        #Sharara_Lehenga
+
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(sharara1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		#Sharara_Lehenga:hover
+		{
+			border-style:solid;
+			width:245px;
+			height:300px;
+			border-color:transparent;
+			background-image:url(sharara2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			border-radius:20px;
+		}
+		.sider{
+			border-style:solid; 
+			width:50px;
+			height:400px;
+			background-color:red;
+			border-radius:50px;
+		}
+		.sider:hover
+		{
+			width:250px;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		.imgg
+		{
+			border-style:solid;
+			border-color:transparent;
+			border-radius:20px;
+			width:100%;
+			height:500px;
+			background-image:url(homeimg2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			animation-name:blur;
+			animation-duration:3s;
+			animation-iteration-count:infinite;
+		}
+		
+		@keyframes blur
+		{
+			from
+			{
+			border-style:solid;
+			border-color:transparent;
+			border-radius:20px;
+			width:100%;
+			height:500px;
+			background-image:url(homeimg2.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			animation-name:blur;
+			}
+			to
+			{
+				border-style:solid;
+			border-color:transparent;
+			border-radius:20px;
+			width:100%;
+			height:500px;
+			background-image:url(homeimg1.png);
+			background-repeat:no-repeat;
+			background-size:cover;
+			animation-name:blur;
+			}
+		}
+		
+				
